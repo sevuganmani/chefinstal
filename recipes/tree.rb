@@ -1,3 +1,4 @@
-package 'install' do
-	action : install
+package 'tree' do
+	action :install
+	action :upgrade
 end
